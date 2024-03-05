@@ -1,0 +1,5 @@
+name: DeathCommandTrigger
+version: '${project.version}'
+main: com.ashkiano.deathcommandtrigger.DeathCommandTrigger
+api-version: '1.16'
+author: AshKiano

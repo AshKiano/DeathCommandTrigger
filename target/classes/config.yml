@@ -1,0 +1,8 @@
+# Number of deaths required within the time frame
+deaths-required: 3
+
+# Time frame in minutes
+time-frame: 5
+
+# Command to execute, {player} will be replaced by the player's name
+command: "say {player} has died too many times!"
